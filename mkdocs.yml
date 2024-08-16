@@ -5,44 +5,44 @@ nav:
   - Kform Language:
     - About: 02-language/01_about.md
     - Files & Directories: 02-language/02_files_dirs.md
-    - Syntax: 02-language/03_syntax.md
+#    - Syntax: 02-language/03_syntax.md
     - KForm Resources: 
-      - About: 02-language/resources/about.md
+#      - About: 02-language/resources/about.md
       - Input: 02-language/resources/input.md
       - Output: 02-language/resources/output.md
       - Resource: 02-language/resources/resource.md
       - Data source: 02-language/resources/data_source.md
-      - Data sources: 02-language/resources/data_sources.md
-      - Provider: 02-language/resources/provider.md
-      - Module: 02-language/resources/module.md
+#      - Data sources: 02-language/resources/data_sources.md
+#      - Provider: 02-language/resources/provider.md
+#      - Module: 02-language/resources/module.md
     - Kform Resource Attributes:
       - Attributes: 02-language/attributes/about.md
       - Description: 02-language/attributes/description.md
-      - Sensitive: 02-language/attributes/sensitive.md
+#      - Sensitive: 02-language/attributes/sensitive.md
       - Depends_on: 02-language/attributes/depends_on.md
       - Count: 02-language/attributes/count.md
       - For_each: 02-language/attributes/for_each.md
-      - Provider: 02-language/attributes/provider.md
-      - Lifecycle: 02-language/attributes/lifecycle.md
-  - CLI: 
-    - Cli: 03-cli/01_cli.md
-  - Developer Guide:
-    - About: 04-dev/01_about.md
-    - Provider: 04-dev/02_provider.md
-    - Module: 04-dev/03_module.md
-    - Package library: 04-dev/04_package_library.md
-    - Controller library: 04-dev/05_controller_library.md
-  - Examples/Tutorials:
-    - About: 05-examples/01_about.md
+#      - Provider: 02-language/attributes/provider.md
+#      - Lifecycle: 02-language/attributes/lifecycle.md
+#  - CLI: 
+#    - Cli: 03-cli/01_cli.md
+#  - Developer Guide:
+#    - About: 04-dev/01_about.md
+#    - Provider: 04-dev/02_provider.md
+#    - Module: 04-dev/03_module.md
+#    - Package library: 04-dev/04_package_library.md
+#    - Controller library: 04-dev/05_controller_library.md
+#  - Examples/Tutorials:
+#    - About: 05-examples/01_about.md
   - Release Notes:
-    - "0.0.1": 06-rn/0.0.1.md
+     - "Release Notes": 06-rn/rn.md
+#    - "0.0.1": 06-rn/0.0.1.md
   - Community: 
     - Community: 07-community/01_about.md
-    - FAQ: 07-community/02_faq.md
 
 site_author: Wim Henderickx
 site_description: >-
-  Schema driven configuration is a system to configure devices through schema's (e.g. YANG) 
+  Kform is a framework that brings the power of 'KRM as code or data' to Kubernetes. 
 # repository
 repo_name: kform-dev/docs
 repo_url: https://github.com/kform-dev/docs
@@ -106,7 +106,8 @@ theme:
     logo: fontawesome/solid/sitemap
     repo: fontawesome/brands/github
     edit: material/file-edit-outline
-  favicon: images/flask.svg
+  favicon: assets/logos/Kform-logo-square.svg
+  logo: assets/logos/Kform-logo-square.svg
 
 # Plugins
 plugins:
@@ -118,7 +119,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/sdcio
+      link: https://github.com/kform-dev
     # - icon: fontawesome/brands/discord
     #   link: https://discord.gg/fHCNahWR2T
     
