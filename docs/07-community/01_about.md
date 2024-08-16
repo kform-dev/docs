@@ -25,6 +25,4 @@ Logos of Kform in different formats:
 * [With name svg](../assets/logos/Kform-logo.svg)
 * [Without name svg](../assets/logos/Kform-logo-square.svg)
 
-[![Discord](https://img.shields.io/discord/1234818321833136199?style=flat-square&label=discord&logo=discord&color=00c9ff&labelColor=bec8d2)](https://discord.gg/hXt4sfUs6V)
-
 ---
