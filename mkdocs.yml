@@ -1,7 +1,13 @@
 site_name: kform
 nav:
   - Home: index.md
-  - Getting Started: 01-getting-started/01_install.md
+  - Getting Started: 
+    - Choreo:
+      - Getting started: 01-getting-started/choreo/01_getting_started.md
+      - Prerequisites: 01-getting-started/choreo/02_prereq.md
+    - Kform: 
+      - Getting started: 01-getting-started/kform/01_getting_started.md
+      - Prerequisites: 01-getting-started/kform/02_prereq.md
   - Kform Language:
     - About: 02-language/01_about.md
     - Files & Directories: 02-language/02_files_dirs.md
