@@ -2,162 +2,177 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.kform.dev/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.kform.dev/01-getting-started/01_install/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <loc>https://docs.kform.dev/01-getting-started/choreo/01_getting_started/</loc>
+         <lastmod>2024-09-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.kform.dev/01-getting-started/choreo/02_prereq/</loc>
+         <lastmod>2024-09-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.kform.dev/01-getting-started/kform/01_getting_started/</loc>
+         <lastmod>2024-09-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.kform.dev/01-getting-started/kform/02_prereq/</loc>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/01_about/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/02_files_dirs/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/03_syntax/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/attributes/about/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/attributes/count/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/attributes/depends_on/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/attributes/description/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/attributes/for_each/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/attributes/lifecycle/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/attributes/provider/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/attributes/sensitive/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/resources/about/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/resources/data_source/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/resources/data_sources/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/resources/input/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/resources/module/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/resources/output/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/resources/provider/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/02-language/resources/resource/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/03-cli/01_cli/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/04-dev/01_about/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/04-dev/02_provider/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/04-dev/03_module/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/04-dev/04_package_library/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/04-dev/05_controller_library/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/05-examples/01_about/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/06-rn/0.0.1/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/06-rn/rn/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/07-community/01_about/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.kform.dev/07-community/02_faq/</loc>
-         <lastmod>2024-08-16</lastmod>
+         <lastmod>2024-09-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
